@@ -1,12 +1,13 @@
 # Breast Cancer Prediction using SVM
 
-![Breast Cancer Prediction](Breast_Cancer_Classificationr.png)
-
 ## 🎯 Overview
 This project predicts breast cancer using a **Support Vector Machine (SVM) classifier** on the **breast cancer dataset**. It involves data preprocessing, feature scaling, model evaluation using k-fold cross-validation, and hyperparameter tuning using **Grid Search**, achieving an accuracy of **98%**.
 
 ## 📂 Dataset
 The dataset is obtained from the **UCI Machine Learning Repository** and contains features related to tumor characteristics, classified as malignant or benign.
+
+## 📸 Visualization Snapshot
+![Breast Cancer Prediction](Breast_Cancer_Classification.png)
 
 ## 🛠 Technologies Used
 - Python
